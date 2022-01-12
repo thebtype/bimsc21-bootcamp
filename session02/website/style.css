@@ -1,0 +1,50 @@
+
+html{
+
+    background-color: rgba(128, 128, 128, 0.411);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+}
+
+h1,h2 {
+
+    /* color: #ff0000; */
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+
+}
+
+img{
+    width: 100%;
+
+}
+
+#nice{
+
+    color: blue;
+}
+
+
+.special-items {
+
+    font-style: italic;
+    background-color: crimson;
+
+}
+
+a:hover{
+    background-color: violet;
+
+}
+
+div{
+
+    background-color: aqua;
+}
+
+.special{
+    background-color: rgb(118, 92, 143);
+    color: white;
+}
+
