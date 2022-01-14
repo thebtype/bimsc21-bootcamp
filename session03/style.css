@@ -9,9 +9,10 @@ border-color: red;
 border-style:dotted;
 border-radius: 5px;
 height: 50px;
+box-sizing: border-box;
 
 padding:5px;
-margin: 5px;
+  
 
 }
 
@@ -19,17 +20,26 @@ margin: 5px;
     border: 2px dotted blue ;
     border-radius: 5px;
     height: 50px;
-
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    
     padding:5px;
-    margin: 5px    
+    
+    
 }
 
 #child-3 {
     border: 2px dotted green ;
     border-radius: 5px;
     height: 50px;
+    width: 70%;
+    float: right;
+    box-sizing: border-box;
     
     padding:5px;
-    margin: 5px
+         
+
+
 
     }
