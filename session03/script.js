@@ -3,8 +3,8 @@
 const doc = document.documentElement;
 //console.log(doc)
 
-doc.style.fontFamily = "monospace";
-doc.style.background = "lightgrey"
+doc.style.fontFamily = "sans serif";
+doc.style.background = "black"
 doc.style.color = "white" 
 
 //access elements from the doc
